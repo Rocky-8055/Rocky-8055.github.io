@@ -1,1 +1,1 @@
-# Rocky-8055.github.io
+git reset --hard HEAD^
